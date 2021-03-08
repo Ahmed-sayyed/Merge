@@ -1,3 +1,4 @@
+i am doing practice sorry
 demo fetch command
 demo git pull command
 this is stash demo
